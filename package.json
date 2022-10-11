@@ -1,0 +1,16 @@
+{
+  "name": "erp-project",
+  "version": "1.0.0",
+  "description": "erp project: event administration web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreyas prabhu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-script": "^2.0.5"
+  }
+}
